@@ -54,7 +54,7 @@ spring.jpa.show-sql=true
 
 One of the files it's called "DemoCrudApplication", this is the main java program to run, you must run this file to execute the apache tomcat server. Like it's shown on the next image:
 
-![Running project](https://github.com/zuturito/Simple-Spring-Postgresql/blob/main/img/2.jpg))
+![Running project](https://github.com/zuturito/Simple-Spring-Postgresql/blob/main/img/2.jpg)
 
 Once it's running, you can use a POSTMAN or restfull IDE to get the data from the table on the database. <br>
 You only need to remember that the link to the data its called like: http:localhost:8080/<link_you_configure_on_REQUEST_MAPPING> <br>
@@ -62,4 +62,4 @@ The request mapping was under the REST folder java file. <br>
 
 If its ok, you will see the data on your database table.
 
-![Running postman to get data](https://github.com/zuturito/Simple-Spring-Postgresql/blob/main/img/3.jpg))
+![Running postman to get data](https://github.com/zuturito/Simple-Spring-Postgresql/blob/main/img/3.jpg)
